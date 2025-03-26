@@ -8,6 +8,7 @@ on:
     paths:
       - auditbeat
       - .github/workflows/auditbeat-macos-unit-tests.yml
+      - .github/workflows/actions/unit-test-composite-action/action.yml
 
 permissions:
   contents: read
