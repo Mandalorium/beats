@@ -6,7 +6,7 @@
 # Notes
 # =====
 #
-# win2012, win2016, win2019, win2026
+# win2012, win2016, win2019, win2025
 # -------------------------
 #
 # To login install Microsoft Remote Desktop Client (available in Mac App Store).
